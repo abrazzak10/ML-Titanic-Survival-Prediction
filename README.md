@@ -25,11 +25,12 @@ Predicting the survival of passengers on the Titanic using machine learning tech
 - K-Nearest Neighbors (KNN)  
 - AdaBoost Classifier
 ## Model Performance: Random Forest Classifier 
-### Accuracy: 0.797752808988764
-       precision    recall  f1-score   support
+- **Accuracy**: `0.7978`
+          precision    recall  f1-score   support
 
-           0       0.84      0.83      0.83       109
-           1       0.73      0.75      0.74        69
+       0       0.84      0.83      0.83       109
+       1       0.73      0.75      0.74        69
+
 
   Model Performance: Decision Tree
   Accuracy: 0.8033707865168539
