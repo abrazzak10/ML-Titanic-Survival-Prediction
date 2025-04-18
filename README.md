@@ -1,15 +1,15 @@
 # ML-Titanic-Survival-Prediction
 Predicting the survival of passengers on the Titanic using machine learning techniques. The dataset was taken from kaggle.
-Objective:
+## Objective:
  To predict whether a passenger survived or not.
-Key Features: 
-        Pclass
-        Sex
-        Age
-        SibSp
-        Parch
-        Fare
-        Embarked
+## Key Features: 
+ - `Pclass`
+- `Sex`
+- `Age`
+- `SibSp`
+- `Parch`
+- `Fare`
+- `Embarked`
 Tools & Libraries: 
        Numpy
        Pandas
