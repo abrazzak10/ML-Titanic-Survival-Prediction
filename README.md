@@ -10,21 +10,22 @@ Predicting the survival of passengers on the Titanic using machine learning tech
 - `Parch`
 - `Fare`
 - `Embarked`
-Tools & Libraries: 
-       Numpy
-       Pandas
-       Matplotlib
-       Seaborn
-       Scikit-learn
-Algorithm Applied: 
-        RandomForestClassifier
-        LogisticRegression
-        DecisionTreeClassifier
-        SVC
-        KNeighborsClassifier
-        AdaBoostClassifier
-Model Performance: Random Forest Classifier 
-       Accuracy: 0.797752808988764
+## Tools & Libraries: 
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+## Algorithm Applied: 
+- Logistic Regression  
+- Random Forest Classifier  
+- Decision Tree Classifier  
+- Support Vector Classifier (SVC)  
+- K-Nearest Neighbors (KNN)  
+- AdaBoost Classifier
+## Model Performance: Random Forest Classifier 
+### Accuracy: 0.797752808988764
        precision    recall  f1-score   support
 
            0       0.84      0.83      0.83       109
